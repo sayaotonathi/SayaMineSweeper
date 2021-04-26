@@ -1,1 +1,2 @@
 "# SayaMineSweeper" 
+Just a practice.
