@@ -1,2 +1,1 @@
-"# SayaMineSweeper" 
 Just a practice.
